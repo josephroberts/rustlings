@@ -2,6 +2,7 @@
 
 fn main() {
     let x: i32;
+    x = 5;
     println!("Number {}", x);
 }
 
